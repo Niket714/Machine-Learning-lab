@@ -1,0 +1,25 @@
+1. Write a python program of naive bayes classifier for iris dataset classification .
+2.  Write a python program of naive bayes classifier for Play Tennis dataset classification 
+3. Write a python program of naive bayes classifier for Large Movie Review Dataset dataset classification 
+
+classification algorithms
+ k nearest algorithm
+ decision tree
+	cart
+	id3 crt
+	c 4.5
+
+svm
+svr
+lda - linear discriment analysis
+pca - principal 
+single k-means 
+iso data algorithm
+fuzzy 
+k means
+dp scance
+
+
+	
+compare logistic error function and least square error function for the hypothesis y = 1/1+e-(w0 + w1.x1)
+implement decision tree 
